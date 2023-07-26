@@ -158,8 +158,6 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 * [TryHackMe | Learn Rust](https://tryhackme.com/room/rust)
 
-* [TryHackMe | Why Subscribe](https://tryhackme.com/room/yara)
-
 ## Networking
 
 ---
