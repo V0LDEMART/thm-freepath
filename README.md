@@ -19,9 +19,9 @@ All the rooms mentioned here are absolute free. ENJOY!!
 | Name of Topic                                     | Number of Rooms | Number of Completed Rooms |
 | ------------------------------------------------- |:---------------:|:-------------------------:|
 | **[Introductory Rooms](#intro-rooms)**            | **10**          |                           |
-| **[Linux Fundamentals](#linux-fundamentals)**     | **5**           |                           |
+| **[Linux Fundamentals](#linux-fundamentals)**     | **4**           |                           |
 | **[Windows Fundamentals](#windows-fundamentals)** | **3**           |                           |
-| **[Basic Rooms](#basics-rooms)**                   | **9**          |                           |
+| **[Basic Rooms](#basics-rooms)**                  | **7**           |                           |
 | **[Reconnaissance](#recon)**                      | **10**          |                           |
 | **[Scripting](#scripting)**                       | **8**           |                           |
 | **[Networking](#networking)**                     | **7**           |                           |
@@ -72,7 +72,6 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 ---
 
-* [TryHackMe | Learn Linux](https://tryhackme.com/room/zthlinux)
 
 * [TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules)
 
@@ -96,7 +95,6 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 ---
 
-* [TryHackMe | Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
 
 * [TryHackMe | Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)
 
@@ -112,7 +110,6 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 * [TryHackMe | ISO27001](https://tryhackme.com/room/iso27001)
 
-* [TryHackMe | UltraTech](https://tryhackme.com/room/ultratech1)
 
 ## Recon
 
